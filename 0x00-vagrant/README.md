@@ -1,0 +1,1 @@
+Checking uname fuctionality
